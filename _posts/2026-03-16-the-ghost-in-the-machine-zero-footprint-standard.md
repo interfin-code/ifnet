@@ -6,7 +6,8 @@ categories: [privacy, ai, ifnet]
 image: /assets/ghost-machine-cover.jpg  # Jei turite nuotrauką assets aplanke
 ---
 
-![Interfin AI](/assets/interfin-privacy-hero.jpg)
+![Interfin AI](/assets/ghost-machine-cover.png
+)
 *Interfin AI* [file:1]
 
 The Ghost in the Machine: Why Your Curiosity Deserves a "Zero Footprint" Standard
